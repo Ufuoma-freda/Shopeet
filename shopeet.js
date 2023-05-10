@@ -17,7 +17,7 @@ function displayDashboard () {
 }
 
 function productCategories () {
-
+    //shows different product categories
     var dresses = [
         {id: 1, name: "SHEIN", colour: "Black", amount: 5500},
         {id: 9, name: "ALEXA", colour: "Red", amount: 10500},
